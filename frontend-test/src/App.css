@@ -1,38 +1,86 @@
 .App {
-  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.section {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.section h1 {
+  color: #333;
+  margin-bottom: 40px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.section-products {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
+  gap: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.product {
+  width: calc(33.333% - 10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.product img {
+  width: 100%;
+  display: block;
+}
+
+.material-button {
+  border: 0;
+  border-radius: 40%;
+  padding: 10px;
+  margin-top: -20px;
+  cursor: pointer;
+  outline: none;
+}
+
+.product-name {
+  color: rgb(11, 35, 65);
+  font-size: 16px;
+  line-height: 19px;
+  padding: 16px;
+}
+
+.price {
+  font-size: 14px;
+  padding: 0 16px 16px;
+  margin-top: auto;
+  color: rgb(83, 84, 138);
+}
+
+.customize {
+  position: relative;
+  font-family: HafferXH-Bold;
+  font-size: 14px;
+  line-height: 18px;
+  color: rgb(105, 162, 255);
+  text-decoration: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .product {
+    width: calc(50% - 20px);
   }
-  to {
-    transform: rotate(360deg);
+
+  .section h1 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .product {
+    width: 100%;
   }
 }
