@@ -13,7 +13,7 @@
 
 .section h1 {
   color: #333;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .section-products {
@@ -24,8 +24,6 @@
 
 .product {
   width: calc(33.333% - 10px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  border-radius: 8px;
   overflow: hidden;
   background: #fff;
   margin-bottom: 20px;
@@ -34,27 +32,56 @@
 .product img {
   width: 100%;
   display: block;
+  margin-bottom: -40px;
+  border-radius: 8px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Adjust the shadow to match your design */
 }
 
 .material-button {
-  border: 0;
-  border-radius: 40%;
-  padding: 10px;
-  margin-top: -20px;
+  background-color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 7px 12px;
   cursor: pointer;
-  outline: none;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  bottom: 5%;
+  left: 75%;
+}
+
+.walnut {
+  background-color: rgb(88, 47, 17);
+  border-radius: 75%;
+  width: 20px;
+  height: 20px;
+}
+
+.oak {
+  background-color: rgb(221, 181, 134);
+  border-radius: 75%;
+  width: 20px;
+  height: 20px;
+}
+
+.black-wood {
+  background-color: rgb(10, 4, 1);
+  border-radius: 75%;
+  width: 20px;
+  height: 20px;
 }
 
 .product-name {
   color: rgb(11, 35, 65);
   font-size: 16px;
   line-height: 19px;
-  padding: 16px;
+  padding: 20px 0px 5px 1px;
 }
 
 .price {
   font-size: 14px;
-  padding: 0 16px 16px;
   margin-top: auto;
   color: rgb(83, 84, 138);
 }
@@ -69,6 +96,37 @@
 }
 
 /* Responsive adjustments */
+@media (max-width: 991px) {
+  .material-button {
+    padding: 7px 12px;
+    gap: 10px;
+    bottom: 5%;
+    left: 65%;
+    font-size: 12px;
+  }
+
+  .walnut {
+    background-color: rgb(88, 47, 17);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .oak {
+    background-color: rgb(221, 181, 134);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .black-wood {
+    background-color: rgb(10, 4, 1);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+}
+
 @media (max-width: 768px) {
   .product {
     width: calc(50% - 20px);
