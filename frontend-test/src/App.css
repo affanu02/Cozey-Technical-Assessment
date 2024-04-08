@@ -35,7 +35,7 @@
   min-height: 300px;
   display: block;
   margin-bottom: -40px;
-  border-radius: 8px;
+  border-radius: 20px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Adjust the shadow to match your design */
 }
 
