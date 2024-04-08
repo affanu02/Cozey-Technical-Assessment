@@ -43,15 +43,15 @@
       "src": "./assets/PLUTO - COFFEE TABLE.webp"
     },
     {
-      "product_name": "Mensa Coffee Table",
-      "price_text": "$360 or financing | ",
+      "product_name": "Stella Coffee Table - 3 Units",
+      "price_text": "$630 or financing | ",
       "material_button_type": "Oak",
       "material_button_call": "oak",
       "src": "./assets/tinywow_4_28381113.webp"
     },
     {
-      "product_name": "Mensa Coffee Table",
-      "price_text": "$360 or financing | ",
+      "product_name": "Pluto Coffee Table",
+      "price_text": "$135 or financing | ",
       "material_button_type": "Expresso",
       "material_button_call": "expresso",
       "src": "./assets/tinywow_5_28381124.webp"
@@ -76,9 +76,45 @@
       "material_button_type": "Walnut",
       "material_button_call": "walnut",
       "src": "./assets/STELLA LIFT-TOP 3 CLOSED CONFIG 3.webp"
+    },
+    {
+      "product_name": "Mistral Rectangle Coffee Table",
+      "price_text": "$380 or financing | ",
+      "material_button_type": "Sandstone",
+      "material_button_call": "sandstone",
+      "src": "./assets/CoffeeTable-Mistral-Rectangle.webp"
+    },
+    {
+      "product_name": "Mistral Square Coffee Table",
+      "price_text": "$380 or financing | ",
+      "material_button_type": "Pebble",
+      "material_button_call": "pebble",
+      "src": "./assets/CoffeeTable-Mistral-Square.webp"
     }
   ],
   "Side Tables": [
+    {
+      "product_name": "Mensa Side Table",
+      "price_text": "$250 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/Tables-Side-Mensa-Oak.webp"
+    },
+    {
+      "product_name": "Mensa Side Table",
+      "price_text": "$250 or financing | ",
+      "material_button_type": "Black Wood",
+      "material_button_call": "black-wood",
+      "src": "./assets/Tables-Side-Mensa-Black.webp"
+    },
+    {
+      "product_name": "Mensa Side Table",
+      "price_text": "$250 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/Tables-Side-Mensa-Walnut.webp"
+    },
+
     {
       "product_name": "Solis Adjustable Table",
       "price_text": "$180 or financing | ",
@@ -157,18 +193,18 @@
       "src": "./assets/stella-media-01.webp"
     },
     {
-      "product_name": "Mistral Rectangle Coffee Table",
-      "price_text": "$380 or financing | ",
-      "material_button_type": "Walnut",
-      "material_button_call": "walnut",
-      "src": "./assets/MISTRAL 2024 - END TABLE.webp"
-    },
-    {
       "product_name": "Mistral Square Coffee Table",
       "price_text": "$380 or financing | ",
-      "material_button_type": "Walnut",
-      "material_button_call": "walnut",
+      "material_button_type": "Sandstone",
+      "material_button_call": "sandstone",
       "src": "./assets/SideTable-Mistral-End.webp"
+    },
+    {
+      "product_name": "Mistral Rectangle Coffee Table",
+      "price_text": "$380 or financing | ",
+      "material_button_type": "Pebble",
+      "material_button_call": "pebble",
+      "src": "./assets/MISTRAL 2024 - END TABLE.webp"
     }
   ],
   "Media Units": [
