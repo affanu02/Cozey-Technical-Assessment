@@ -123,6 +123,7 @@
   line-height: 19px;
   margin-top: 40px;
   padding: 20px 0px 5px 1px;
+  font-weight: bold;
 }
 
 .price {
@@ -133,7 +134,7 @@
 
 .customize {
   position: relative;
-  font-family: HafferXH-Bold;
+  font-weight: bold;
   font-size: 14px;
   line-height: 18px;
   color: rgb(105, 162, 255);

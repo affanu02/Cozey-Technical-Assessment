@@ -14,6 +14,8 @@ Caveats:
 - Provide a loom video (after you have completed the questions) on the solution, and code
 - Provide a github repo url
 
+## How to Run
+
 ### `npm start`
 
 Runs the app in the development mode.\
