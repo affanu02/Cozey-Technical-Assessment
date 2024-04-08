@@ -142,14 +142,12 @@
 
 /* Responsive adjustments */
 @media (max-width: 991px) {
-  .material-button {
-    padding: 7px 12px;
+  .section-products {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
     gap: 10px;
-    bottom: 5%;
-    left: 65%;
-    font-size: 12px;
   }
-
   .walnut {
     background-color: rgb(88, 47, 17);
     border-radius: 75%;
@@ -170,15 +168,59 @@
     width: 15px;
     height: 15px;
   }
+  .expresso {
+    background-color: rgb(68, 33, 9);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .sandstone {
+    background-color: rgb(236, 235, 231);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .pebble {
+    background-color: rgb(90, 90, 90);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .eclipse {
+    background-color: rgb(29, 29, 29);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .twilight {
+    background-color: rgb(153, 153, 153);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
+
+  .solstice {
+    background-color: rgb(248, 248, 248);
+    border-radius: 75%;
+    width: 15px;
+    height: 15px;
+  }
 }
 
 @media (max-width: 768px) {
-  .product {
-    width: calc(50% - 20px);
-  }
-
   .section h1 {
     text-align: center;
+  }
+
+  .section-products {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: space-around;
+    gap: 10px;
   }
 }
 
