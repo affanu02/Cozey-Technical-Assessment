@@ -6,7 +6,7 @@
 }
 
 .section {
-  max-width: 1200px;
+  max-width: 1300px;
   margin: auto;
   padding: 20px;
 }
@@ -17,13 +17,13 @@
 }
 
 .section-products {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   justify-content: space-around;
-  gap: 20px;
+  gap: 35px;
 }
 
 .product {
-  width: calc(33.333% - 10px);
   overflow: hidden;
   background: #fff;
   margin-bottom: 20px;
