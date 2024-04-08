@@ -1,0 +1,325 @@
+{
+  "Coffee Tables": [
+    {
+      "product_name": "Mensa Coffee Table",
+      "price_text": "$360 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/MENSA - COFFEE TABLE.JPG"
+    },
+    {
+      "product_name": "Mensa Coffee Table",
+      "price_text": "$360 or financing | ",
+      "material_button_type": "Black Wood",
+      "material_button_call": "black-wood",
+      "src": "./assets/MENSA - COFFEE TABLE (1).JPG"
+    },
+    {
+      "product_name": "Mensa Coffee Table",
+      "price_text": "$360 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/MENSA - COFFEE TABLE (2).JPG"
+    },
+    {
+      "product_name": "Stella Coffee Table - 1 Unit",
+      "price_text": "$210 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/tinywow_1_28381075.webp"
+    },
+    {
+      "product_name": "Stella Coffee Table - Set of 2",
+      "price_text": "$420 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/coffee-table.webp"
+    },
+    {
+      "product_name": "Pluto Coffee Table",
+      "price_text": "$135 or financing | ",
+      "material_button_type": "Black Wood",
+      "material_button_call": "black-wood",
+      "src": "./assets/PLUTO - COFFEE TABLE.webp"
+    },
+    {
+      "product_name": "Mensa Coffee Table",
+      "price_text": "$360 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/tinywow_4_28381113.webp"
+    },
+    {
+      "product_name": "Mensa Coffee Table",
+      "price_text": "$360 or financing | ",
+      "material_button_type": "Expresso",
+      "material_button_call": "expresso",
+      "src": "./assets/tinywow_5_28381124.webp"
+    },
+    {
+      "product_name": "Stella Coffee Table - 1 Unit",
+      "price_text": "$210 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA LIFT-TOP 1 CLOSED CONFIG 1 (1).webp"
+    },
+    {
+      "product_name": "Stella Coffee Table - 2 Units",
+      "price_text": "$420 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/tinywow_6_28381143.webp"
+    },
+    {
+      "product_name": "Stella Coffee Table - 3 Units",
+      "price_text": "$630 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA LIFT-TOP 3 CLOSED CONFIG 3.webp"
+    }
+  ],
+  "Side Tables": [
+    {
+      "product_name": "Solis Adjustable Table",
+      "price_text": "$180 or financing | ",
+      "material_button_type": "Eclipse",
+      "material_button_call": "eclipse",
+      "src": "./assets/tinywow_7_28381247.webp"
+    },
+    {
+      "product_name": "Solis Adjustable Table",
+      "price_text": "$180 or financing | ",
+      "material_button_type": "Twilight",
+      "material_button_call": "twilight",
+      "src": "./assets/tinywow_8_28381358.webp"
+    },
+    {
+      "product_name": "Solis Adjustable Table",
+      "price_text": "$180 or financing | ",
+      "material_button_type": "Solstice",
+      "material_button_call": "solstice",
+      "src": "./assets/tinywow_9_28381369.webp"
+    },
+    {
+      "product_name": "Stella Coffee Table - 1 Unit",
+      "price_text": "$210 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA LIFT-TOP 1 CLOSED CONFIG 1 (1).webp"
+    },
+    {
+      "product_name": "Stella Coffee Table - 1 Unit",
+      "price_text": "$210 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/tinywow_1_28381075.webp"
+    },
+    {
+      "product_name": "Pluto Side Table",
+      "price_text": "$85 or financing | ",
+      "material_button_type": "Expresso",
+      "material_button_call": "expresso",
+      "src": "./assets/tinywow_10_28381395.webp"
+    },
+    {
+      "product_name": "Pluto Side Table",
+      "price_text": "$85 or financing | ",
+      "material_button_type": "Black Wood",
+      "material_button_call": "black-wood",
+      "src": "./assets/tinywow_11_28381418.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 1 Unit | No Door",
+      "price_text": "$145 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA TV 1 HOLE.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 1 Unit | No Door",
+      "price_text": "$145 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/no-door-media.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 1 Unit | With Door",
+      "price_text": "$165 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA TV 1 DOOR.webp"
+    },
+    {
+      "product_name": "Stella Media Unit",
+      "price_text": "$165 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/stella-media-01.webp"
+    },
+    {
+      "product_name": "Mistral Rectangle Coffee Table",
+      "price_text": "$380 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/MISTRAL 2024 - END TABLE.webp"
+    },
+    {
+      "product_name": "Mistral Square Coffee Table",
+      "price_text": "$380 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/SideTable-Mistral-End.webp"
+    }
+  ],
+  "Media Units": [
+    {
+      "product_name": "Stella Media Unit - Set of 3",
+      "price_text": "$475 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/Stella-media-3.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - Set of 2",
+      "price_text": "$330 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/stella-media-2.webp"
+    },
+    {
+      "product_name": "Stella Media Unit",
+      "price_text": "$165 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/stella-media.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 1 Unit | No Door",
+      "price_text": "$145 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/no-door-media.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 2 Units",
+      "price_text": "$310 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/no-door-media-2.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 2 Units | No Doors",
+      "price_text": "$290 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/STELLA TV 2 HOLE.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - Set of 3",
+      "price_text": "$475 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/tinywow_15_28381520.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 3 Units | No Doors",
+      "price_text": "$435 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA TV 3 HOLE.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 4 Units",
+      "price_text": "$620 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/tinywow_16_28381530.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 4 Units | No Doors",
+      "price_text": "$580 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/STELLA TV 4 HOLE.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 2 Units",
+      "price_text": "$310 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/STELLA TV 2 DOOR-HOLE.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - Set of 4",
+      "price_text": "$620 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA TV 4 DOOR-HOLE-HOLE-DOOR.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 3 Units | With Doors",
+      "price_text": "$495 or financing | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/STELLA TV 3 DOOR.webp"
+    },
+    {
+      "product_name": "Stella Media Unit - 4 Units | With Doors",
+      "price_text": "$660 or financing | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/STELLA TV 4 DOOR.webp"
+    }
+  ],
+  "Table Sets": [
+    {
+      "product_name": "Pluto Table Set | 1 Coffee Table & 1 Side Table",
+      "price_text": "$195 | ",
+      "material_button_type": "Black Wood",
+      "material_button_call": "black-wood",
+      "src": "./assets/pluto-table.webp"
+    },
+    {
+      "product_name": "Pluto Table Set | 1 Coffee Table & 2 Side Tables",
+      "price_text": "$255 | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/pluto-table.webp"
+    },
+    {
+      "product_name": "Pair of Solis Adjustable Tables",
+      "price_text": "$320 | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/pluto-table.webp"
+    },
+    {
+      "product_name": "Stella Table Set | 2-Unit Media & 2-Unit Coffee Table",
+      "price_text": "$620 | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/stella-table-2-walnut.webp"
+    },
+    {
+      "product_name": "Stella Table Set | 2-Unit Media & 1 Side Table",
+      "price_text": "$465 | ",
+      "material_button_type": "Walnut",
+      "material_button_call": "walnut",
+      "src": "./assets/stella-table-1-walnut.webp"
+    },
+    {
+      "product_name": "Stella Table Set | 3-Unit Media & 2-Unit Coffee Table",
+      "price_text": "$715 | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/stella-table-2-oak.webp"
+    },
+    {
+      "product_name": "Stella Table Set | 3-Unit Media & 1 Side Table",
+      "price_text": "$580 | ",
+      "material_button_type": "Oak",
+      "material_button_call": "oak",
+      "src": "./assets/stella-table-1-oak.webp"
+    }
+  ]
+}

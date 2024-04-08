@@ -27,10 +27,12 @@
   overflow: hidden;
   background: #fff;
   margin-bottom: 20px;
+  position: relative;
 }
 
 .product img {
   width: 100%;
+  min-height: 300px;
   display: block;
   margin-bottom: -40px;
   border-radius: 8px;
@@ -48,8 +50,8 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
-  bottom: 5%;
-  left: 75%;
+  position: absolute;
+  right: 12px;
 }
 
 .walnut {
@@ -73,10 +75,18 @@
   height: 20px;
 }
 
+.expresso {
+  background-color: rgb(68, 33, 9);
+  border-radius: 75%;
+  width: 20px;
+  height: 20px;
+}
+
 .product-name {
   color: rgb(11, 35, 65);
   font-size: 16px;
   line-height: 19px;
+  margin-top: 40px;
   padding: 20px 0px 5px 1px;
 }
 
